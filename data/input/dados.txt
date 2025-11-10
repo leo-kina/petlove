@@ -1,0 +1,4 @@
+10/10/2025,Mel,Larissa,Consulta clínica,150,0
+11/10/2025,Thor,Pedro,Vacinação anual,120,30
+12/10/2025,Luna,Marina,Exame de sangue,90,0
+13/10/2025,Bento,João,Ultrassom abdominal,200,0
